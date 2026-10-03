@@ -332,31 +332,19 @@
    "YUV_REPROCESSING",
    "RAW",
    "REMOSAIC_REPROCESSING",
-   "DYNAMIC_RANGE_TEN_BIT",
    "STREAM_USE_CASE",
    "COLOR_SPACE_PROFILES"
-  ],
-  "android.request.availableDynamicRangeProfilesMap": [
-   "2",
-   "2",
-   "0"
   ],
   "android.request.availableColorSpaceProfilesMap": [
     "0",
     "35",
     "1",
-    "16",
-    "54",
-    "2",
     "7",
     "35",
     "1",
     "0",
     "34",
     "1",
-    "16",
-    "34",
-    "2",
     "7",
     "34",
     "1",
@@ -366,9 +354,6 @@
     "7",
     "256",
     "1"
-  ],
-  "android.request.recommendedTenBitDynamicRangeProfile": [
-   "2"
   ],
   "android.request.maxNumInputStreams": [
    "1"
@@ -1844,15 +1829,6 @@
    "YUV_REPROCESSING",
    "RAW",
    "REMOSAIC_REPROCESSING",
-   "DYNAMIC_RANGE_TEN_BIT"
-  ],
-  "android.request.availableDynamicRangeProfilesMap": [
-   "2",
-   "2",
-   "0"
-  ],
-  "android.request.recommendedTenBitDynamicRangeProfile": [
-   "2"
   ],
   "android.request.maxNumInputStreams": [
    "1"
@@ -3337,15 +3313,6 @@
    "YUV_REPROCESSING",
    "RAW",
    "REMOSAIC_REPROCESSING",
-   "DYNAMIC_RANGE_TEN_BIT"
-  ],
-  "android.request.availableDynamicRangeProfilesMap": [
-   "2",
-   "2",
-   "0"
-  ],
-  "android.request.recommendedTenBitDynamicRangeProfile": [
-   "2"
   ],
   "android.request.maxNumInputStreams": [
    "1"
